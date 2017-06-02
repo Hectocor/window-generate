@@ -12,6 +12,7 @@ public class test{
 			JFrame f = new JFrame();
 			
 			Random aleatorio = new Random();
+			//width and height of screen 
 			int intx = aleatorio.nextInt(1920);
 			int inty = aleatorio.nextInt(1080);
 			

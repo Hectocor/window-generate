@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class Ventana extends JFrame{
-	
+	//this variable contain number of window generate
 	private int i;
 	
 	public Ventana(int i, int sizex, int sizey, boolean visible, boolean resizable, JFrame f, int lctionx, int lctiony){
